@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940751296025",
+    "project_id": "sigbd-da7ad",
+    "storage_bucket": "sigbd-da7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940751296025:android:9f94fdade329010f807c88",
+        "android_client_info": {
+          "package_name": "com.example.sig_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUJNQ8RiV3yhXpfp35Zl_J_nNt--YTthg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
